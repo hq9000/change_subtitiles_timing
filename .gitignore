@@ -1,0 +1,5 @@
+venv
+*.srt
+.vscode
+**/__pycache__
+**/*.pyc
